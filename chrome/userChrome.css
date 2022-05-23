@@ -349,3 +349,9 @@ searchbar#searchbar {
 	/* Create a neutral hover background (25% white haze) */
 	--menuitem-hover-background-color: rgba(255, 255, 255, 0.25) !important;
 }
+
+/* bookmark dropdown*/
+#PlacesToolbar menupopup[placespopup="true"] {
+	--arrowpanel-background: #000000 !important;
+	--arrowpanel-color: white !important;
+}
