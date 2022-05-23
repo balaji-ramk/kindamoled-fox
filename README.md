@@ -1,5 +1,5 @@
 # kindamoled-fox
-My favourite firefox userChrome tweaks.
+For those who think firefox isn't dark enough.
 
 Credits: [Almost.Dark.Colorfull.Proton.v3](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes), [Simplify Darkish](https://github.com/CristianDragos/FirefoxThemes/tree/master/Simplify%20Darkish).
 
@@ -20,6 +20,7 @@ Tested on Windows only.
 
 - Paste the folder `chrome` from the downloaded zip into the folder you opened.
 - Restart Firefox.
+- (Recommended) Disable any previous themes, if you have any.
 
 Known Issues:
 - The search suggestions alignment can be weird.
